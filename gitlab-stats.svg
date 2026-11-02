@@ -7,57 +7,42 @@
       .icon { fill: #7aa2f7; }
     </style>
   </defs>
-  
+
   <!-- Background -->
-  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#1a1b26" stroke="#414868" stroke-opacity="1"/>
-  
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#1a1b26" stroke="#414868"
+    stroke-opacity="1" />
+
   <!-- Header -->
   <g transform="translate(25, 35)">
     <text class="header">GitLab Statistics</text>
   </g>
-  
+
   <!-- Stats Grid -->
   <!-- Row 1 -->
   <g transform="translate(25, 70)">
     <text class="stat-label">Total Commits:</text>
-    <text class="stat-value" x="200">51</text>
+    <text class="stat-value" x="200">3,307</text>
   </g>
-  
+
   <g transform="translate(270, 70)">
     <text class="stat-label">Projects:</text>
     <text class="stat-value" x="150">0</text>
   </g>
-  
+
   <!-- Row 2 -->
   <g transform="translate(25, 100)">
     <text class="stat-label">MRs Authored:</text>
-    <text class="stat-value" x="200">100</text>
+    <text class="stat-value" x="200">1420</text>
   </g>
-  
+
   <g transform="translate(270, 100)">
     <text class="stat-label">MRs Reviewed:</text>
-    <text class="stat-value" x="150">100</text>
+    <text class="stat-value" x="150">1298</text>
   </g>
-  
-  <!-- Row 3 -->
-  <g transform="translate(25, 130)">
-    <text class="stat-label">Issues Created:</text>
-    <text class="stat-value" x="200">0</text>
-  </g>
-  
-  <g transform="translate(270, 130)">
-    <text class="stat-label">Issues Closed:</text>
-    <text class="stat-value" x="150">0</text>
-  </g>
-  
-  <!-- Row 4 -->
-  <g transform="translate(25, 160)">
-    <text class="stat-label">Contribution Streak:</text>
-    <text class="stat-value" x="200">0 days</text>
-  </g>
-  
+
+
   <!-- Footer -->
   <g transform="translate(25, 185)">
-    <text class="stat-label" font-size="11" opacity="0.6">Last updated: 2026-11-01 19:43 UTC</text>
+    <text class="stat-label" font-size="11" opacity="0.6">Last updated: 2026-11-01 19:49 UTC</text>
   </g>
 </svg>
