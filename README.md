@@ -1,5 +1,3 @@
-# Radosław Sadowski 👋
-
 Staff Engineer solving distributed systems challenges in the authorization and identity domain. I design and build fast, reliable, and scalable systems. Currently at [@castai](https://github.com/castai)
 
 ## 🛠️ Tech Stack
