@@ -22,17 +22,15 @@ Dog person 🐕. Always looking for the next mountain to climb, literally and fi
 
 <div align="center">
 
+### GitLab Stats
+
+![GitLab Stats](./gitlab-stats.svg)
+
 ### GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=radsadowski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/radsadowski)
 
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=radsadowski&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/radsadowski)
-
-### GitLab Stats
-
-[![GitLab Contributor Stats](https://contributors.gitlab.com/users/radekska/banner.svg)](https://contributors.gitlab.com/users/radekska)
-
-[![GitLab Stats](https://gitlab-readme-stats.vercel.app/api?username=radekska&show_icons=true&theme=tokyonight)](https://gitlab.com/radekska)
 
 </div>
 
