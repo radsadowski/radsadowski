@@ -1,40 +1,41 @@
-<svg width="900" height="320" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="260" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       .header { fill: #7aa2f7; font-size: 18px; font-weight: 600; font-family: 'Segoe UI', Ubuntu, sans-serif; }
       .stat-label { fill: #a9b1d6; font-size: 13px; font-family: 'Segoe UI', Ubuntu, sans-serif; }
       .stat-value { fill: #bb9af7; font-size: 13px; font-weight: 700; font-family: 'Segoe UI', Ubuntu, monospace; }
       .section-title { fill: #a9b1d6; font-size: 14px; font-weight: 600; font-family: 'Segoe UI', Ubuntu, sans-serif; }
+      .emoji { font-size: 14px; }
     </style>
   </defs>
   
   <!-- Background -->
-  <rect x="0.5" y="0.5" width="899" height="319" rx="4.5" fill="#1a1b26" stroke="#414868" stroke-opacity="1"/>
+  <rect x="0.5" y="0.5" width="899" height="259" rx="4.5" fill="#1a1b26" stroke="#414868" stroke-opacity="1"/>
   
   <!-- Header -->
   <g transform="translate(25, 30)">
-    <text class="header">GitLab Statistics</text>
+    <text class="header">🦊 GitLab Statistics</text>
   </g>
   
   <!-- Stats Row -->
   <g transform="translate(25, 60)">
-    <text class="stat-label">Total Contributions:</text>
-    <text class="stat-value" x="180">5,035</text>
+    <text class="stat-label">📊 Total Contributions:</text>
+    <text class="stat-value" x="200">5,035</text>
   </g>
   
-  <g transform="translate(320, 60)">
-    <text class="stat-label">Total Commits:</text>
+  <g transform="translate(340, 60)">
+    <text class="stat-label">📝 Total Commits:</text>
     <text class="stat-value" x="140">3,307</text>
   </g>
   
-  <g transform="translate(580, 60)">
-    <text class="stat-label">Current Streak:</text>
-    <text class="stat-value" x="140">0 days</text>
+  <g transform="translate(600, 60)">
+    <text class="stat-label">🔥 Streak:</text>
+    <text class="stat-value" x="100">0 days</text>
   </g>
   
   <!-- Heatmap Section -->
   <g transform="translate(0, 90)">
-    <text class="section-title" x="25" y="0">Contribution Activity (Last Year)</text>
+    <text class="section-title" x="25" y="0">📅 Contribution Activity (Last Year)</text>
     
     <!-- Heatmap -->
     <g transform="translate(0, 20)">
@@ -407,7 +408,7 @@
   
   <!-- Languages Section -->
   <g transform="translate(0, 200)">
-    <text class="section-title" x="25" y="0">Top Languages</text>
+    <text class="section-title" x="25" y="0">💻 Top Languages</text>
     
     <!-- Language Bars -->
     <g transform="translate(25, 20)">
@@ -416,7 +417,7 @@
   </g>
   
   <!-- Footer -->
-  <g transform="translate(25, 310)">
-    <text class="stat-label" font-size="10" opacity="0.6">Last updated: 2026-11-01 19:54 UTC</text>
+  <g transform="translate(25, 250)">
+    <text class="stat-label" font-size="10" opacity="0.6">Last updated: 2026-11-01 20:02 UTC</text>
   </g>
 </svg>
