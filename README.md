@@ -20,9 +20,9 @@ Dog person 🐕. Always looking for the next mountain to climb, literally and fi
 
 ---
 
-<div align="center">
-
 ### GitLab Stats
+
+<div align="center">
 
 ![GitLab Stats](./gitlab-stats.svg)
 
