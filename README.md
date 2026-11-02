@@ -20,7 +20,7 @@ Dog person 🐕. Always looking for the next mountain to climb, literally and fi
 
 ---
 
-### GitLab Stats
+## 🦊 GitLab Stats
 
 <div align="center">
 
