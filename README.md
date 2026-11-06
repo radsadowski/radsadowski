@@ -1,4 +1,4 @@
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=radsadowski&repo=airdrive)](https://github.com/radsadowski/airdrive)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=radsadowski&repo=airdrive&description_lines_count=100)](https://github.com/radsadowski/airdrive)
 
 # 👋
 
